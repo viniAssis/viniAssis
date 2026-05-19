@@ -1,16 +1,37 @@
-## Hi there 👋
+# Olá! Eu sou Vinícius 👋
 
-<!--
-**viniAssis/viniAssis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Desenvolvedor Node.js Júnior  
+💻 Backend com Node.js, TypeScript, PostgreSQL, MySql e MongoDB  
+🧪 5 anos de experiência como QA 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias
+
+### Backend
+- Node.js
+- TypeScript
+- Express.js
+- REST APIs
+
+### Banco de Dados
+- MongoDB
+- MySQL
+- PostgreSQL
+
+### Testes
+- Cypress
+- Testes automatizados
+- QA
+
+### Ferramentas
+- Docker
+- Git
+- Linux
+
+---
+
+## 📫 Contato
+
+- LinkedIn: (https://www.linkedin.com/in/vinicius-assis96/)
+- Email: vini2296@outlook.com
