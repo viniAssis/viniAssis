@@ -1,7 +1,7 @@
-# Olá! Eu sou Vinícius Silva 👋
+# Olá! Eu sou Vinícius Assis 👋
 
 🎯 Desenvolvedor Node.js Júnior  
-💻 Focado em desenvolvimento backend com Node.js, TypeScript, Express e MongoDB  
+💻 Focado em desenvolvimento backend com Node.js, TypeScript, Express, PostgreSQL, MySql e MongoDB  
 🧪 Profissional com 5 anos de experiência em QA e automação de testes
 
 ---
@@ -59,7 +59,7 @@ Possuo 5 anos de experiência com qualidade de software, atuando em:
 
 ## 📌 Projeto em Destaque
 
-### Backend API — Node.js
+### ArticleManager API — Node.js
 
 Desenvolvimento de uma API REST utilizando Node.js, Express, PostgreSQL e MongoDB, aplicando conceitos de autenticação, arquitetura MVC, organização de rotas e integração com banco de dados.
 
